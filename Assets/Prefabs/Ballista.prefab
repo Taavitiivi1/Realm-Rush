@@ -62,6 +62,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 642ee4105d03cea4387564037e8c5249, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cost: 75
+  buildDelay: 1
 --- !u!1 &6131056645070147807
 GameObject:
   m_ObjectHideFlags: 0
@@ -158,7 +160,7 @@ GameObject:
   - component: {fileID: 2700054976229155917}
   - component: {fileID: 1467398954496360665}
   m_Layer: 0
-  m_Name: BalistaBaseMesh
+  m_Name: BallistaBaseMesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

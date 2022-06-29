@@ -5,14 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Path
+  - Trees
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - TileLayer
   - Water
   - UI
-  - 
+  - PostProcessing
   - 
   - 
   - 
